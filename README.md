@@ -89,4 +89,3 @@ HTML5, CSS3 (custom properties, grid, flexbox) and vanilla JavaScript.
 **Sravanthi**
 B.Tech CSE (AIML), Mohan Babu University
 
-- Live preview: https://claude.ai/artifact/1zxyeRgMES2sk7WeVJRp7x
