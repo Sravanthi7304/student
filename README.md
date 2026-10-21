@@ -2,7 +2,7 @@
 
 A responsive student dashboard built with HTML, CSS and JavaScript in a single file. It uses a clean white and light blue theme.
 
-**Live preview:** 
+**Live preview:** https://sravanthi7304.github.io/student/
 
 **Author:** Sravanthi
 
